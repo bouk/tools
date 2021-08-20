@@ -1,3 +1,3 @@
-# jwt-cli
+# tools
 
-Provides a tool 'jwt' that print out the contents of a JWT
+Provides a couple of command line tools that aid in understanding various encoding formats.

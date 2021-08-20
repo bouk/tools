@@ -1,3 +1,3 @@
-module bou.ke/jwt-cli
+module bou.ke/tools
 
 go 1.16
